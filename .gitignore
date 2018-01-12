@@ -1,0 +1,21 @@
+*.gem
+.bundle
+.DS_Store
+.jekyll-metadata
+.sass-cache
+_asset_bundler_cache
+_site
+codekit-config.json
+Gemfile.lock
+node_modules
+npm-debug.log*
+
+/log/*.log
+/tmp
+
+# dot env files
+.env.local
+.env.test
+
+# local ruby version
+.ruby-version
