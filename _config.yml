@@ -1,1 +1,19 @@
+lang: en-US
+title: devdug a Freelance Full-Stack developer based in Canada
+email: dugan.nash@mailinator.com
+description: "Your new default Jekyll theme"
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Doug Squarebriggs
+#   twitter: Towlette_Pettetucci
+#   picture: https://api.adorable.io/avatars/285/johndoe.png
+# twitter_username: Towlette_Pettetucci
+# github_username: Towlette_Pettetucci
+# logo: /assets/icons/basically-basic-logo-light.svg
+
 remote_theme: devdug/jekyll-theme-basically-basic
+
+sass:
+  sass_dir: _sass
+  style: compressed
